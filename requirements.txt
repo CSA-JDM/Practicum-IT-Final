@@ -1,0 +1,8 @@
+glfw==2.5.0
+multipledispatch==0.6.0
+noise==1.2.2
+numpy==1.21.5
+Pillow==8.4.0
+PyOpenGL==3.1.5
+pyrr==0.10.3
+six==1.16.0
